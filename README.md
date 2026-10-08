@@ -60,11 +60,8 @@ inclass_05
 ```
 
 ## Screenshot
+<img width="1320" height="2868" alt="screen" src="https://github.com/user-attachments/assets/231f55bd-75f4-4da2-b2ee-b27e85c72190" />
 
-Add a screenshot of the app here:
 
-```md
-<img width="1320" height="2868" alt="screen" src="https://github.com/user-attachments/assets/074c5f87-8b51-4b73-a341-45af6395faaf" />
 
-```
 
