@@ -60,7 +60,7 @@ inclass_05
 ```
 
 ## Screenshot
-<img width="1320" height="2868" alt="screen" src="https://github.com/user-attachments/assets/231f55bd-75f4-4da2-b2ee-b27e85c72190" />
+<img width="1100" height="2808" alt="screen" src="https://github.com/user-attachments/assets/231f55bd-75f4-4da2-b2ee-b27e85c72190" />
 
 
 
